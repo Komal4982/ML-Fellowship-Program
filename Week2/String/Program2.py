@@ -11,3 +11,5 @@ def char_frequency(str1):
 
 
 print(char_frequency('google.com'))
+
+

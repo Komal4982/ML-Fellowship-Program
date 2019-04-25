@@ -6,3 +6,5 @@ per = itertools.permutations(['a', 'b', 'c'])
 
 for p in list(per):
     print(p)
+
+    

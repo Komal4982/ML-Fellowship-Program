@@ -10,3 +10,4 @@ def duplicate_ele(ele_list):
 ele_list = [5, 9, 6, 8, 5, 2]
 print("original elements List:", ele_list)
 print("duplicate elements :", duplicate_ele(ele_list))
+
