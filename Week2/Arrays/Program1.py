@@ -12,3 +12,5 @@ for i in range(len(array_num)):
 # print(array_num[2])
 # print(array_num[3])
 # print(array_num[4])
+
+
