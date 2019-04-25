@@ -4,38 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Week1/Program20.py" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0ea04b-1a9b-4c40-8f84-4c2472c0e3b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Program2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/Program1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Program8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Program7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple/Program9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/Program34.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/Program34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/Program35.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/Program35.py" afterDir="false" />
-    </list>
+    <list default="true" id="0e0ea04b-1a9b-4c40-8f84-4c2472c0e3b0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +15,17 @@
     <favorites_list name="Machine Learing" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week2/Arrays/Program1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,6 +113,11 @@
             <path>
               <item name="Machine Learing" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine Learing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learing" type="462c0819:PsiDirectoryNode" />
+              <item name="Week2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -488,7 +472,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.5007452" side_tool="true" weight="0.2456964" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41255605" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41255605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -538,13 +522,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Dictionary/Program12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dictionary/Program13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -883,6 +860,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week2/Arrays/Program1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
