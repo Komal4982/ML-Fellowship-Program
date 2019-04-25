@@ -8,9 +8,10 @@ while True:
         ele2 = int(ele2)
         ele3 = int(ele3)
         List = [ele1, ele2, ele3]
-        print(List)
+        print('Your List is: ' + str(List))
+
         new_list = list(filter(lambda x: (x % 15 == 0), List))
-        print(new_list)
+        print("number is divided by 15:=", new_list)
         break
     except ValueError:
         print('Please enter a integer number')
@@ -18,7 +19,7 @@ while True:
 
 
 
-print('Your List is: ' + str(List))
+
 
 
 
