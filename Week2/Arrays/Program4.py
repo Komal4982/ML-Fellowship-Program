@@ -7,3 +7,4 @@ print("remove first occurrence from array")
 array_num.remove(8)
 print("new array="+str(array_num))
 
+
